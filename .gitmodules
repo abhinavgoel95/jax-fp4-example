@@ -1,0 +1,4 @@
+[submodule "psx-formats"]
+	path = psx-formats
+	url = ssh://git@gitlab-master.nvidia.com:12051/compute/psx/psx-formats/psx-formats.git
+	branch = jinzex/psx_subset
