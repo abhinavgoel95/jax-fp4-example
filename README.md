@@ -3,6 +3,8 @@
 
 ### Set up:
 
+Container: `ghcr.io/nvidia/jax:maxtext-2025-08-20`
+
 TE branch: `https://github.com/abhinavgoel95/TransformerEngine/tree/abgoel/nvfp4-kernel-wip` (remember to clone all submodules as well)
 
 ```
