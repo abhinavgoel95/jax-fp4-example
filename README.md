@@ -3,9 +3,9 @@
 
 ### Set up:
 
-Container: `ghcr.io/nvidia/jax:maxtext-2025-08-20`
+Container: `ghcr.io/nvidia/jax:maxtext-2025-10-15`
 
-TE:  Use latest TE from upstream `https://github.com/NVIDIA/TransformerEngine` (remember to clone all submodules as well)
+TE:  Use the latest TE from upstream `https://github.com/NVIDIA/TransformerEngine` (remember to clone all submodules as well)
 
 ```
 pip install pybind11 ninja
